@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MoneyBox
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: f4d3da89a0fb1ba43ac4b90453a7d7d0, type: 3}
+    totalSpriteSurfaceArea: 2610391
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9c6ed801cfdfc7544aeb5132f886949b, type: 3}
+  - {fileID: 21300000, guid: 85c845b2bf4401d42949d2c3350ac7a8, type: 3}
+  - {fileID: 21300000, guid: 2d449eb22d58a5e4d89f10fb9ec2abd1, type: 3}
+  - {fileID: 21300000, guid: badbcce2a61637d4ea3cc1c3c6f685d4, type: 3}
+  - {fileID: 21300000, guid: 62afe4e7194f8834392ea39199cd05b1, type: 3}
+  - {fileID: 21300000, guid: 96bfd8e80b564014b94b09b943150277, type: 3}
+  - {fileID: 21300000, guid: 6d1cb9494db6bf045bb015e9741210a6, type: 3}
+  - {fileID: 21300000, guid: a77779d9fe0873b47bf10ca96b0dda7e, type: 3}
+  - {fileID: 21300000, guid: a503a47ac89f2d04eadfe5ca26c6ba3c, type: 3}
+  - {fileID: 21300000, guid: a7bf656cd54bead49a45bf70573fc37e, type: 3}
+  - {fileID: 21300000, guid: 8973dc6d6f2aa4440a7050623777335e, type: 3}
+  - {fileID: 21300000, guid: f0cede5ef064f9e4fade1c2775da4407, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - close
+  - slider_fill
+  - light
+  - cash
+  - cloud
+  - help
+  - CONGRATULATIONS!
+  - pig
+  - title_bg
+  - button
+  - bottom_light
+  - slider_bg
+  m_RenderDataMap: {}
+  m_Tag: MoneyBox
+  m_IsVariant: 0

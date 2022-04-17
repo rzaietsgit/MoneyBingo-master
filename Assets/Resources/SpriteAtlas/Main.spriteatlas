@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Main
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e1337f451e2a3b6449185b877fae635d, type: 3}
+    totalSpriteSurfaceArea: 2135210
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f21b4b30fc4ba6e4098524666febd9b7, type: 3}
+  - {fileID: 21300000, guid: 3b4e52326722aeb4194675c88060bd3b, type: 3}
+  - {fileID: 21300000, guid: f12ede93bdeb4674188e2a4fe3fa744f, type: 3}
+  - {fileID: 21300000, guid: c31118a38f332ce448ba5fa8d740b9f9, type: 3}
+  - {fileID: 21300000, guid: 915e76157979a7143a91214bb3389c32, type: 3}
+  - {fileID: 21300000, guid: d6b6e6651e13ae249a0497b0827d57a8, type: 3}
+  - {fileID: 21300000, guid: 43a51d06ac1456043938e1633f8d36b5, type: 3}
+  - {fileID: 21300000, guid: 95c32b6601dca814dbef959e47d75b86, type: 3}
+  - {fileID: 21300000, guid: 3bff9ed6408d89943abd3df6b4858eae, type: 3}
+  - {fileID: 21300000, guid: a61fd1974e5dc2e4294d003e8984fa2a, type: 3}
+  - {fileID: 21300000, guid: 089078881a44b7c49b628712beae5482, type: 3}
+  - {fileID: 21300000, guid: 0b70a7f9a8191214ba29a549039b7e40, type: 3}
+  - {fileID: 21300000, guid: 77470a6a74b16be41a72318671a12624, type: 3}
+  - {fileID: 21300000, guid: b98f9a6ce8e5ed44a84a4451d5735de0, type: 3}
+  - {fileID: 21300000, guid: 4bb667cc21b006f41b912be6e5c699c2, type: 3}
+  - {fileID: 21300000, guid: 4112f0dcd53a4894ca72b4a419da8391, type: 3}
+  - {fileID: 21300000, guid: 0482be9d80ba831439e425cecafb01f8, type: 3}
+  - {fileID: 21300000, guid: a915e27f9b615ae45878c56cabf7ec0c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - card_2
+  - card_icon
+  - R
+  - gift
+  - cardBg
+  - less_on
+  - less_off
+  - add_on
+  - button_off
+  - tipBg
+  - card_4
+  - card
+  - L
+  - add_off
+  - button_on
+  - card num bg
+  - card_1
+  - help
+  m_RenderDataMap: {}
+  m_Tag: Main
+  m_IsVariant: 0

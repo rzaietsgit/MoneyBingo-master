@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GetSingleReward
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 1101c584e6a93454f8929d678ac6418f, type: 3}
+    totalSpriteSurfaceArea: 2307190
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e616aed3c1123fa46b65e96e67480f7d, type: 3}
+  - {fileID: 21300000, guid: bce788540e243e342956cc638ef62a83, type: 3}
+  - {fileID: 21300000, guid: 8a14e345f0835b940b3f15b568ffa517, type: 3}
+  - {fileID: 21300000, guid: ecbcb56754bfa954a89885f06889fd92, type: 3}
+  - {fileID: 21300000, guid: a2b03b77cccd99e4998db03a58a5c4f5, type: 3}
+  - {fileID: 21300000, guid: 096fe06a94aceca4aabcf0728f1d6996, type: 3}
+  - {fileID: 21300000, guid: 98b0e80b158fa5948bdd53ffcb1171a0, type: 3}
+  - {fileID: 21300000, guid: 8850521b30ec3ce4f9e1fc905c250fbe, type: 3}
+  - {fileID: 21300000, guid: ada8da6b96144a447b11c6589ee9e2e3, type: 3}
+  - {fileID: 21300000, guid: 2bafad6b94a27bb4199310f50425a5b1, type: 3}
+  - {fileID: 21300000, guid: a36eac7b79c972a4bbcb06df51c174e1, type: 3}
+  - {fileID: 21300000, guid: 8b1f638baa4f3864d8a617c4a53a0597, type: 3}
+  - {fileID: 21300000, guid: e17dfaeba2b588841bc8552d784b23bf, type: 3}
+  - {fileID: 21300000, guid: 5b39717cf0c82894396fc24358691a83, type: 3}
+  - {fileID: 21300000, guid: afc62fcc42788b749aa02779609735c8, type: 3}
+  - {fileID: 21300000, guid: 761ae30db7b51284e84c8aaf5dad574f, type: 3}
+  - {fileID: 21300000, guid: 37e0313eb5a4a1b4f8739991f35d7e42, type: 3}
+  - {fileID: 21300000, guid: 7831c2ae57f7e954f9d0a50352168158, type: 3}
+  - {fileID: 21300000, guid: dd2f919feb9e98b4ab80f1eb9821f8fe, type: 3}
+  - {fileID: 21300000, guid: 2d44c99fbfda3644aba962dbab90bdf1, type: 3}
+  - {fileID: 21300000, guid: 9697cdff06e791943b9c1c30ebb46f15, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - gift_cash
+  - Macbook
+  - ChanelLipstick
+  - DysonHairDryer
+  - ad
+  - Cash
+  - Gold
+  - GucciPerfume
+  - LV_Bag
+  - light
+  - SonyTV
+  - close
+  - Key
+  - iPad
+  - SamsungPhone
+  - titleBg
+  - PhilipsCoffeeMachine
+  - PlayBingoTicket
+  - button
+  - AmazonCard
+  - Switch
+  m_RenderDataMap: {}
+  m_Tag: GetSingleReward
+  m_IsVariant: 0

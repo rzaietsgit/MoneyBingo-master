@@ -1,0 +1,622 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8aa0343fc61765f46ac2cadee7ad63bb, type: 3}
+  m_Name: Config
+  m_EditorClassIdentifier: 
+  config_CardRandomRewards:
+  - cash_max: 1000
+    cash_cardNum: 5
+    cash_rewardNum: 50
+    gold_max: 100000
+    gold_cardNum: 5
+    gold_rewardNum: 500
+  - cash_max: 2000
+    cash_cardNum: 4
+    cash_rewardNum: 50
+    gold_max: 200000
+    gold_cardNum: 5
+    gold_rewardNum: 500
+  - cash_max: 3000
+    cash_cardNum: 4
+    cash_rewardNum: 40
+    gold_max: 300000
+    gold_cardNum: 5
+    gold_rewardNum: 500
+  - cash_max: 4000
+    cash_cardNum: 3
+    cash_rewardNum: 40
+    gold_max: 400000
+    gold_cardNum: 3
+    gold_rewardNum: 500
+  - cash_max: 5000
+    cash_cardNum: 3
+    cash_rewardNum: 30
+    gold_max: 500000
+    gold_cardNum: 3
+    gold_rewardNum: 400
+  - cash_max: 6000
+    cash_cardNum: 3
+    cash_rewardNum: 30
+    gold_max: 600000
+    gold_cardNum: 3
+    gold_rewardNum: 400
+  - cash_max: 6500
+    cash_cardNum: 3
+    cash_rewardNum: 20
+    gold_max: 650000
+    gold_cardNum: 3
+    gold_rewardNum: 400
+  - cash_max: 7000
+    cash_cardNum: 3
+    cash_rewardNum: 20
+    gold_max: 700000
+    gold_cardNum: 3
+    gold_rewardNum: 300
+  - cash_max: 7500
+    cash_cardNum: 3
+    cash_rewardNum: 10
+    gold_max: 750000
+    gold_cardNum: 3
+    gold_rewardNum: 300
+  - cash_max: 8000
+    cash_cardNum: 2
+    cash_rewardNum: 10
+    gold_max: 800000
+    gold_cardNum: 2
+    gold_rewardNum: 200
+  - cash_max: 8500
+    cash_cardNum: 2
+    cash_rewardNum: 5
+    gold_max: 850000
+    gold_cardNum: 2
+    gold_rewardNum: 200
+  - cash_max: 9000
+    cash_cardNum: 2
+    cash_rewardNum: 2
+    gold_max: 900000
+    gold_cardNum: 1
+    gold_rewardNum: 100
+  - cash_max: 9500
+    cash_cardNum: 2
+    cash_rewardNum: 1
+    gold_max: 950000
+    gold_cardNum: 1
+    gold_rewardNum: 100
+  config_CardExtraRewards:
+  - rewardType: 0
+    weight: 50
+    numRange:
+      min: 2
+      max: 4
+    mustBeInThreeTimes: 1
+    appearLimitType: 1
+    appearLimitMax: 950000
+  - rewardType: 1
+    weight: 50
+    numRange:
+      min: 2
+      max: 3
+    mustBeInThreeTimes: 1
+    appearLimitType: 0
+    appearLimitMax: -1
+  - rewardType: 2
+    weight: 20
+    numRange:
+      min: 3
+      max: 3
+    mustBeInThreeTimes: 1
+    appearLimitType: 0
+    appearLimitMax: -1
+  config_WheelRewards:
+  - rewardType: 18
+    rewardNum: 1
+    weight: 200
+    blackBox: ffffffff
+    appearLimitType: 0
+    appearLimitMax: 0
+    randomMultipleAndWeight:
+    - {x: 1, y: 1}
+  - rewardType: 2
+    rewardNum: 100
+    weight: 50
+    blackBox: ffffffff
+    appearLimitType: 2
+    appearLimitMax: 5500
+    randomMultipleAndWeight:
+    - {x: 1, y: 30}
+    - {x: 2, y: 20}
+    - {x: 3, y: 20}
+    - {x: 4, y: 20}
+    - {x: 5, y: 10}
+  - rewardType: 7
+    rewardNum: 1
+    weight: 100
+    blackBox: 02000000
+    appearLimitType: 0
+    appearLimitMax: 0
+    randomMultipleAndWeight:
+    - {x: 1, y: 30}
+    - {x: 2, y: 20}
+    - {x: 3, y: 20}
+    - {x: 4, y: 20}
+    - {x: 5, y: 10}
+  - rewardType: 8
+    rewardNum: 1
+    weight: 50
+    blackBox: 03000000
+    appearLimitType: 8
+    appearLimitMax: 8
+    randomMultipleAndWeight:
+    - {x: 1, y: 1}
+  - rewardType: 1
+    rewardNum: 200
+    weight: 200
+    blackBox: ffffffff
+    appearLimitType: 1
+    appearLimitMax: 950000
+    randomMultipleAndWeight:
+    - {x: 1, y: 30}
+    - {x: 2, y: 20}
+    - {x: 3, y: 20}
+    - {x: 4, y: 20}
+    - {x: 5, y: 10}
+  - rewardType: 0
+    rewardNum: 1
+    weight: 100
+    blackBox: ffffffff
+    appearLimitType: 0
+    appearLimitMax: 0
+    randomMultipleAndWeight:
+    - {x: 1, y: 1}
+  - rewardType: 5
+    rewardNum: 1
+    weight: 150
+    blackBox: 04000000
+    appearLimitType: 5
+    appearLimitMax: 95
+    randomMultipleAndWeight:
+    - {x: 1, y: 1}
+  - rewardType: 7
+    rewardNum: 2
+    weight: 100
+    blackBox: 05000000
+    appearLimitType: 0
+    appearLimitMax: 0
+    randomMultipleAndWeight:
+    - {x: 1, y: 30}
+    - {x: 2, y: 20}
+    - {x: 3, y: 20}
+    - {x: 4, y: 20}
+    - {x: 5, y: 10}
+  - rewardType: 6
+    rewardNum: 1
+    weight: 80
+    blackBox: 01000000
+    appearLimitType: 6
+    appearLimitMax: 12
+    randomMultipleAndWeight:
+    - {x: 1, y: 1}
+  - rewardType: 1
+    rewardNum: 500
+    weight: 150
+    blackBox: ffffffff
+    appearLimitType: 1
+    appearLimitMax: 950000
+    randomMultipleAndWeight:
+    - {x: 1, y: 30}
+    - {x: 2, y: 20}
+    - {x: 3, y: 20}
+    - {x: 4, y: 20}
+    - {x: 5, y: 10}
+  - rewardType: 2
+    rewardNum: 10
+    weight: 100
+    blackBox: ffffffff
+    appearLimitType: 2
+    appearLimitMax: 9500
+    randomMultipleAndWeight:
+    - {x: 1, y: 30}
+    - {x: 2, y: 20}
+    - {x: 3, y: 20}
+    - {x: 4, y: 20}
+    - {x: 5, y: 10}
+  - rewardType: 5
+    rewardNum: 1
+    weight: 50
+    blackBox: ffffffff
+    appearLimitType: 5
+    appearLimitMax: 95
+    randomMultipleAndWeight:
+    - {x: 1, y: 1}
+  config_Tasks:
+  - name: Play 1 bingo game
+    id: 0
+    taskType: 0
+    needTimes: 1
+    rewardTypes: 01000000
+    rewardNums: 64000000
+    appearLimitTypes: 01000000
+    appearLimitMaxes: f07e0e00
+    randomMultipleRewardTypes: 01000000
+    randomMultipleAndWeights:
+    - multipleWeights:
+      - {x: 1, y: 30}
+      - {x: 2, y: 25}
+      - {x: 3, y: 20}
+      - {x: 4, y: 20}
+      - {x: 5, y: 5}
+  - name: Play 3 bingo game
+    id: 1
+    taskType: 0
+    needTimes: 3
+    rewardTypes: 01000000
+    rewardNums: 2c010000
+    appearLimitTypes: 01000000
+    appearLimitMaxes: f07e0e00
+    randomMultipleRewardTypes: 01000000
+    randomMultipleAndWeights:
+    - multipleWeights:
+      - {x: 1, y: 30}
+      - {x: 2, y: 25}
+      - {x: 3, y: 20}
+      - {x: 4, y: 20}
+      - {x: 5, y: 5}
+  - name: Play 5 bingo game
+    id: 2
+    taskType: 0
+    needTimes: 5
+    rewardTypes: 01000000
+    rewardNums: f4010000
+    appearLimitTypes: 01000000
+    appearLimitMaxes: f07e0e00
+    randomMultipleRewardTypes: 01000000
+    randomMultipleAndWeights:
+    - multipleWeights:
+      - {x: 1, y: 30}
+      - {x: 2, y: 25}
+      - {x: 3, y: 20}
+      - {x: 4, y: 20}
+      - {x: 5, y: 5}
+  - name: Play 15 bingo game
+    id: 3
+    taskType: 0
+    needTimes: 15
+    rewardTypes: 0200000001000000
+    rewardNums: f4010000dc050000
+    appearLimitTypes: 0200000001000000
+    appearLimitMaxes: 28230000f07e0e00
+    randomMultipleRewardTypes: 01000000
+    randomMultipleAndWeights:
+    - multipleWeights:
+      - {x: 1, y: 30}
+      - {x: 2, y: 25}
+      - {x: 3, y: 20}
+      - {x: 4, y: 20}
+      - {x: 5, y: 5}
+  - name: Play 5 wheel game
+    id: 4
+    taskType: 1
+    needTimes: 5
+    rewardTypes: 01000000
+    rewardNums: f4010000
+    appearLimitTypes: 01000000
+    appearLimitMaxes: f07e0e00
+    randomMultipleRewardTypes: 01000000
+    randomMultipleAndWeights:
+    - multipleWeights:
+      - {x: 1, y: 30}
+      - {x: 2, y: 25}
+      - {x: 3, y: 20}
+      - {x: 4, y: 20}
+      - {x: 5, y: 5}
+  - name: Play 5 lucky spin
+    id: 5
+    taskType: 2
+    needTimes: 5
+    rewardTypes: 01000000
+    rewardNums: d0070000
+    appearLimitTypes: 01000000
+    appearLimitMaxes: f07e0e00
+    randomMultipleRewardTypes: 01000000
+    randomMultipleAndWeights:
+    - multipleWeights:
+      - {x: 1, y: 30}
+      - {x: 2, y: 25}
+      - {x: 3, y: 20}
+      - {x: 4, y: 20}
+      - {x: 5, y: 5}
+  config_Gifts:
+  - giftType: 9
+    redeemNeedNum: 10
+  - giftType: 6
+    redeemNeedNum: 15
+  - giftType: 10
+    redeemNeedNum: 20
+  - giftType: 8
+    redeemNeedNum: 10
+  - giftType: 11
+    redeemNeedNum: 15
+  - giftType: 12
+    redeemNeedNum: 10
+  - giftType: 13
+    redeemNeedNum: 20
+  - giftType: 14
+    redeemNeedNum: 20
+  - giftType: 15
+    redeemNeedNum: 15
+  - giftType: 16
+    redeemNeedNum: 20
+  config_LuckySpins:
+  - rewardType: 9
+    weight: 50
+    rewardNum: 1
+    blackBox: ffffffff
+    appearLimitType: 9
+    appearLimitMax: 8
+    firstGetRewardNum: 2
+  - rewardType: 6
+    weight: 50
+    rewardNum: 1
+    blackBox: 010000000400000006000000
+    appearLimitType: 6
+    appearLimitMax: 13
+    firstGetRewardNum: 2
+  - rewardType: 10
+    weight: 50
+    rewardNum: 1
+    blackBox: ffffffff
+    appearLimitType: 10
+    appearLimitMax: 18
+    firstGetRewardNum: 2
+  - rewardType: 8
+    weight: 50
+    rewardNum: 1
+    blackBox: 02000000
+    appearLimitType: 8
+    appearLimitMax: 8
+    firstGetRewardNum: 2
+  - rewardType: 11
+    weight: 50
+    rewardNum: 1
+    blackBox: ffffffff
+    appearLimitType: 11
+    appearLimitMax: 13
+    firstGetRewardNum: 2
+  - rewardType: 12
+    weight: 50
+    rewardNum: 1
+    blackBox: ffffffff
+    appearLimitType: 12
+    appearLimitMax: 8
+    firstGetRewardNum: 2
+  - rewardType: 13
+    weight: 50
+    rewardNum: 1
+    blackBox: ffffffff
+    appearLimitType: 13
+    appearLimitMax: 18
+    firstGetRewardNum: 2
+  - rewardType: 14
+    weight: 50
+    rewardNum: 1
+    blackBox: ffffffff
+    appearLimitType: 14
+    appearLimitMax: 18
+    firstGetRewardNum: 2
+  - rewardType: 15
+    weight: 50
+    rewardNum: 1
+    blackBox: ffffffff
+    appearLimitType: 15
+    appearLimitMax: 12
+    firstGetRewardNum: 2
+  - rewardType: 16
+    weight: 50
+    rewardNum: 1
+    blackBox: ffffffff
+    appearLimitType: 16
+    appearLimitMax: 17
+    firstGetRewardNum: 2
+  - rewardType: 7
+    weight: 200
+    rewardNum: 2
+    blackBox: ffffffff
+    appearLimitType: 0
+    appearLimitMax: 0
+    firstGetRewardNum: -1
+  - rewardType: 2
+    weight: 100
+    rewardNum: 1
+    blackBox: 03000000
+    appearLimitType: 2
+    appearLimitMax: 9500
+    firstGetRewardNum: -1
+  config_MoreBalls:
+  - ballCount: 1
+    weight: 10
+    usefulCount: 1
+    unUsefulCount: 0
+    blackBox: -1
+  - ballCount: 2
+    weight: 50
+    usefulCount: 1
+    unUsefulCount: 1
+    blackBox: -1
+  - ballCount: 3
+    weight: 80
+    usefulCount: 2
+    unUsefulCount: 1
+    blackBox: -1
+  - ballCount: 4
+    weight: 50
+    usefulCount: 2
+    unUsefulCount: 2
+    blackBox: 2
+  - ballCount: 5
+    weight: 30
+    usefulCount: 2
+    unUsefulCount: 3
+    blackBox: 1
+  config_GiftBallons:
+  - rewardType: 9
+    weight: 50
+    rewardNum: 1
+    appearLimitType: 9
+    appearLimitMax: 8
+  - rewardType: 6
+    weight: 50
+    rewardNum: 1
+    appearLimitType: 6
+    appearLimitMax: 13
+  - rewardType: 10
+    weight: 50
+    rewardNum: 1
+    appearLimitType: 10
+    appearLimitMax: 18
+  - rewardType: 8
+    weight: 50
+    rewardNum: 1
+    appearLimitType: 8
+    appearLimitMax: 8
+  - rewardType: 11
+    weight: 50
+    rewardNum: 1
+    appearLimitType: 11
+    appearLimitMax: 13
+  - rewardType: 12
+    weight: 50
+    rewardNum: 1
+    appearLimitType: 12
+    appearLimitMax: 8
+  - rewardType: 13
+    weight: 50
+    rewardNum: 1
+    appearLimitType: 13
+    appearLimitMax: 18
+  - rewardType: 14
+    weight: 50
+    rewardNum: 1
+    appearLimitType: 14
+    appearLimitMax: 18
+  - rewardType: 15
+    weight: 50
+    rewardNum: 1
+    appearLimitType: 15
+    appearLimitMax: 12
+  - rewardType: 16
+    weight: 50
+    rewardNum: 1
+    appearLimitType: 16
+    appearLimitMax: 17
+  - rewardType: 18
+    weight: 100
+    rewardNum: 1
+    appearLimitType: 0
+    appearLimitMax: 0
+  config_DrawBoxes:
+  - rewardType: 9
+    weight: 50
+    rewardNum: 1
+    blackBox: ffffffff
+    appearLimitType: 9
+    appearLimitMax: 8
+  - rewardType: 6
+    weight: 50
+    rewardNum: 1
+    blackBox: ffffffff
+    appearLimitType: 6
+    appearLimitMax: 13
+  - rewardType: 10
+    weight: 50
+    rewardNum: 1
+    blackBox: ffffffff
+    appearLimitType: 10
+    appearLimitMax: 18
+  - rewardType: 8
+    weight: 50
+    rewardNum: 1
+    blackBox: ffffffff
+    appearLimitType: 8
+    appearLimitMax: 8
+  - rewardType: 11
+    weight: 50
+    rewardNum: 1
+    blackBox: ffffffff
+    appearLimitType: 11
+    appearLimitMax: 13
+  - rewardType: 12
+    weight: 50
+    rewardNum: 1
+    blackBox: ffffffff
+    appearLimitType: 12
+    appearLimitMax: 8
+  - rewardType: 13
+    weight: 50
+    rewardNum: 1
+    blackBox: ffffffff
+    appearLimitType: 13
+    appearLimitMax: 18
+  - rewardType: 14
+    weight: 50
+    rewardNum: 1
+    blackBox: ffffffff
+    appearLimitType: 14
+    appearLimitMax: 18
+  - rewardType: 15
+    weight: 50
+    rewardNum: 1
+    blackBox: ffffffff
+    appearLimitType: 15
+    appearLimitMax: 12
+  - rewardType: 16
+    weight: 50
+    rewardNum: 1
+    blackBox: ffffffff
+    appearLimitType: 16
+    appearLimitMax: 17
+  - rewardType: 1
+    weight: 100
+    rewardNum: 200
+    blackBox: 0100000002000000
+    appearLimitType: 1
+    appearLimitMax: 950000
+  - rewardType: 1
+    weight: 1
+    rewardNum: 10
+    blackBox: 03000000
+    appearLimitType: 0
+    appearLimitMax: 0
+  - rewardType: 2
+    weight: 50
+    rewardNum: 1
+    blackBox: ffffffff
+    appearLimitType: 2
+    appearLimitMax: 9000
+  - rewardType: 5
+    weight: 150
+    rewardNum: 1
+    blackBox: 05000000
+    appearLimitType: 5
+    appearLimitMax: 90
+  config_Pigs:
+  - maxTotalPigCash: 2000
+    rewardPigCashNum: 50
+  - maxTotalPigCash: 3000
+    rewardPigCashNum: 35
+  - maxTotalPigCash: 4000
+    rewardPigCashNum: 25
+  - maxTotalPigCash: 4500
+    rewardPigCashNum: 10
+  - maxTotalPigCash: 4900
+    rewardPigCashNum: 1
+  - maxTotalPigCash: 5000
+    rewardPigCashNum: 0

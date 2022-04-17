@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Menu
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 606824077be358946a1487341efdfc92, type: 3}
+    totalSpriteSurfaceArea: 923923
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3786b17057cf83d46ab551be3c4c4a72, type: 3}
+  - {fileID: 21300000, guid: 4667dd519be516947971a76067128bf5, type: 3}
+  - {fileID: 21300000, guid: 9f326e51bc1dc20439de68627d63fdde, type: 3}
+  - {fileID: 21300000, guid: 50fe67e18239e654eafbb8b38bd33e61, type: 3}
+  - {fileID: 21300000, guid: dab30002809db954fa21a7a0f58c29b1, type: 3}
+  - {fileID: 21300000, guid: 2a8d7833595a2534b9866c0b723cd081, type: 3}
+  - {fileID: 21300000, guid: 603e62d34b2703e4e8a3d8ee03c02623, type: 3}
+  - {fileID: 21300000, guid: 7966ba44a3f09724798c3dc6cdbeb5ed, type: 3}
+  - {fileID: 21300000, guid: 5c104554d329b1a429a4ad5744cb11db, type: 3}
+  - {fileID: 21300000, guid: f58c70b50ed91014baede375307c2c0f, type: 3}
+  - {fileID: 21300000, guid: a8ffc1c5157ef884e89b9c04a714cf50, type: 3}
+  - {fileID: 21300000, guid: b915e8c6fc1e4394cb80b5aec66d4a94, type: 3}
+  - {fileID: 21300000, guid: b872c41703ee893498b7cce92fa40b8c, type: 3}
+  - {fileID: 21300000, guid: 7bb14c17a42a2754682409911a14e0a9, type: 3}
+  - {fileID: 21300000, guid: 377cd1f79aa3f7c47af1f337f9de76a4, type: 3}
+  - {fileID: 21300000, guid: f309d7687826dae45b0d53469d0b940e, type: 3}
+  - {fileID: 21300000, guid: 1660a678e2d5e3b47acaaa3272282b4d, type: 3}
+  - {fileID: 21300000, guid: feb91aa8f933cce429e450bb80a76210, type: 3}
+  - {fileID: 21300000, guid: 4713e92976b24064ba9f9bb33a696479, type: 3}
+  - {fileID: 21300000, guid: 208ac749cc6d7cd4bb4f5957540b9ba9, type: 3}
+  - {fileID: 21300000, guid: 6726ee99b97dfb143b1b1db602ebd88b, type: 3}
+  - {fileID: 21300000, guid: 7e8ef87afe4763349ba13bb88dccca79, type: 3}
+  - {fileID: 21300000, guid: fa11ad7b903a2904b81c33cccc62464a, type: 3}
+  - {fileID: 21300000, guid: 352555bb330d5a24fa2ed5080faaa534, type: 3}
+  - {fileID: 21300000, guid: 412e515c68803d848bf1348de1c4940f, type: 3}
+  - {fileID: 21300000, guid: 0b0af21dd56dfb64b8e3de01d754ff37, type: 3}
+  - {fileID: 21300000, guid: 548f491dd52a9fb469372ca6189b7029, type: 3}
+  - {fileID: 21300000, guid: df4ae08d756f8c942865cfa1ede2b1c8, type: 3}
+  - {fileID: 21300000, guid: df7c788dd7ed0a34997ce74e8e6371c4, type: 3}
+  - {fileID: 21300000, guid: 3427339db91e69e4fbbe5c234403b038, type: 3}
+  - {fileID: 21300000, guid: 9cb7aaadc3bd207488cc71c26d2f44ac, type: 3}
+  - {fileID: 21300000, guid: 480f9cbd8e5007447bb7991154c2997c, type: 3}
+  - {fileID: 21300000, guid: 89b7a41e0e4789445bcf3be4ff65f877, type: 3}
+  - {fileID: 21300000, guid: bce4908ed3714e3439f3e1ea9ceb4084, type: 3}
+  - {fileID: 21300000, guid: e610c2df7fe3d434592bb57c084eb8a3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Gift_DysonHairDryer
+  - redpoint
+  - ball_3
+  - pig_slider_bg
+  - Gift_Macbook
+  - ball_5
+  - light
+  - back
+  - gold
+  - Gift_GucciPerfume
+  - phoneBg
+  - Gift_ChanelLipstick
+  - key
+  - pig
+  - amazon
+  - pigbg
+  - ball_1
+  - pig_slider_fill
+  - Gift_LV_Bag
+  - Gift_SonyTV
+  - Gift_iPad
+  - setting
+  - task
+  - Gift_PhilipsCoffeeMachine
+  - tokenBg
+  - taskBg
+  - ball_2
+  - cash
+  - ball_4
+  - Gift_Switch
+  - lock
+  - progress
+  - empty
+  - Gift_SamsungPhone
+  - paypal
+  m_RenderDataMap: {}
+  m_Tag: Menu
+  m_IsVariant: 0

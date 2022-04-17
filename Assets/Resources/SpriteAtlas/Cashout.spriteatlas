@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cashout
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a87e52f797c409e4792153db3139c31e, type: 3}
+    totalSpriteSurfaceArea: 4560116
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7e3b5870ff5c20144a73fe42e1d2017c, type: 3}
+  - {fileID: 21300000, guid: b826cfc02f7d03748a437e9cb6ea1e9c, type: 3}
+  - {fileID: 21300000, guid: 8b2fb1c136013e049bf336f13f9d2265, type: 3}
+  - {fileID: 21300000, guid: 31752c93840809343806aa87fbc0bffc, type: 3}
+  - {fileID: 21300000, guid: db1431e3eed05bf41a8bc0a90e86d665, type: 3}
+  - {fileID: 21300000, guid: 1efadfb48ee88b348b2f2601c67531a7, type: 3}
+  - {fileID: 21300000, guid: 69eb9af44efbd4c4d8693105c76928ad, type: 3}
+  - {fileID: 21300000, guid: 6e8e8225bf76b2044805159e7e87e0ad, type: 3}
+  - {fileID: 21300000, guid: d928384551fa05c40a0c13efb115af9f, type: 3}
+  - {fileID: 21300000, guid: 855727a67fbc3b64592d3f974c5a06d4, type: 3}
+  - {fileID: 21300000, guid: d4984c57d3ff1c94ba083e3b99dbd91e, type: 3}
+  - {fileID: 21300000, guid: 050b1a5892e339c45aa11f6886628af5, type: 3}
+  - {fileID: 21300000, guid: bbdcc3785433b394d9ff68c11d9aa5ba, type: 3}
+  - {fileID: 21300000, guid: 172ef7eaeaf413847a1350cfb0adb0ee, type: 3}
+  - {fileID: 21300000, guid: 3bc7deea7498bd849b39f6e187abea68, type: 3}
+  - {fileID: 21300000, guid: a4080d2bae4c23044a0835810d542c8f, type: 3}
+  - {fileID: 21300000, guid: 81f8be8b853a83343906d2198c32cf12, type: 3}
+  - {fileID: 21300000, guid: 0d1859cba28777e429a4eea375e308ff, type: 3}
+  - {fileID: 21300000, guid: 138c35cc79b322f458cef45690d6e971, type: 3}
+  - {fileID: 21300000, guid: 9efb371d45b26eb4496a2d12d85b55bb, type: 3}
+  - {fileID: 21300000, guid: 72cfee3e0d0941d428db83b82722c41a, type: 3}
+  - {fileID: 21300000, guid: c0f5d69e1286eb2488ca14446ff1d257, type: 3}
+  - {fileID: 21300000, guid: 16c8419f9df37e04baf675c48747c197, type: 3}
+  - {fileID: 21300000, guid: 6cdd689f4708297458f8e21647dd0297, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - progressBg
+  - starbucks
+  - walmart
+  - other_bg
+  - paypal
+  - amazon_empty
+  - titleBg
+  - base_2
+  - close
+  - amazon
+  - help
+  - paypal_empty
+  - ptBg
+  - button
+  - netflix
+  - adidas
+  - bg
+  - cashout_base_2
+  - cashout_base_1
+  - close 1
+  - back
+  - cashBg
+  - base_1
+  - record
+  m_RenderDataMap: {}
+  m_Tag: Cashout
+  m_IsVariant: 0

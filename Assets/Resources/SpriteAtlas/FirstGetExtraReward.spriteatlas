@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FirstGetExtraReward
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e3732897aed3a4b40af5ff10f328e9af, type: 3}
+    totalSpriteSurfaceArea: 794996
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 78ff5aa16b6dc014aacee1e490529ace, type: 3}
+  - {fileID: 21300000, guid: d6ec2ed2b6867f5449027210fe59bee0, type: 3}
+  - {fileID: 21300000, guid: efb1cf044727e2a4393aef27eec133d4, type: 3}
+  - {fileID: 21300000, guid: 69ea0d55449cb9143a55df780e114d02, type: 3}
+  - {fileID: 21300000, guid: cd1024c72a16b294ea19897df12c88f7, type: 3}
+  - {fileID: 21300000, guid: 7b221128b75209140b080bb4b8a27e31, type: 3}
+  - {fileID: 21300000, guid: 59176bb8e1281e24f94c97535d9cac37, type: 3}
+  - {fileID: 21300000, guid: 83d53e898f87c18408a0db1f8e23afe3, type: 3}
+  - {fileID: 21300000, guid: 18a2fe89f6370294d9ac3763e56f6d90, type: 3}
+  - {fileID: 21300000, guid: dce948aa8d9f2f74facb89433e890a3b, type: 3}
+  - {fileID: 21300000, guid: 04de5cce757ebf448aa1aec5c9daedfb, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - close
+  - ExtraGold
+  - button
+  - base 1
+  - base 2
+  - ad
+  - Star
+  - titleBg
+  - Key
+  - TribleReward
+  - PlayBingoTicket
+  m_RenderDataMap: {}
+  m_Tag: FirstGetExtraReward
+  m_IsVariant: 0

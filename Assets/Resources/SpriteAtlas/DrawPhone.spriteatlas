@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DrawPhone
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: db4a9accb41346b43a6f6a86668e09df, type: 3}
+    totalSpriteSurfaceArea: 5459565
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8e4b2a40415ba3646b1ace0c6b1dcd24, type: 3}
+  - {fileID: 21300000, guid: 7c662c501eefc2341aebae1ff27fbffb, type: 3}
+  - {fileID: 21300000, guid: 657d99a0fb5bbee41a1e101b87c38325, type: 3}
+  - {fileID: 21300000, guid: d5c08ff042ad02443ac65e28b92b222b, type: 3}
+  - {fileID: 21300000, guid: b9b2e0817b38b5a40a783a6dd96d9b1f, type: 3}
+  - {fileID: 21300000, guid: 3620d532683f8c0499a7c305ccafd50c, type: 3}
+  - {fileID: 21300000, guid: 1ecca1337826332488f6b5e0b7d163db, type: 3}
+  - {fileID: 21300000, guid: 2e1af4538142e0a4a807370c311bec8a, type: 3}
+  - {fileID: 21300000, guid: a5a74c53a068b8d4e8bcfe288fd6deb8, type: 3}
+  - {fileID: 21300000, guid: 6ff935a32e14bae44b1625c2eb6da485, type: 3}
+  - {fileID: 21300000, guid: 803e3b1477d292f40aaa491fb97f2aba, type: 3}
+  - {fileID: 21300000, guid: bf2b6b74653acae478d7069e467dce19, type: 3}
+  - {fileID: 21300000, guid: 513c80356243ab34197f64058ec11f3c, type: 3}
+  - {fileID: 21300000, guid: ca461e956d2f8bf418ad5d977d1a0e9f, type: 3}
+  - {fileID: 21300000, guid: cdd9a526509f6a1418410a27ef48d596, type: 3}
+  - {fileID: 21300000, guid: c538bfc631ffa8f41923d4897cc130b2, type: 3}
+  - {fileID: 21300000, guid: 4cb19cd65fd8a7247a6fd49fecc83b50, type: 3}
+  - {fileID: 21300000, guid: 11cad7a7277743f40975df480f92220b, type: 3}
+  - {fileID: 21300000, guid: 6e0e5268b153af14d98322840babe430, type: 3}
+  - {fileID: 21300000, guid: 86c8df091796d8741b0b4cce4e859191, type: 3}
+  - {fileID: 21300000, guid: 87957319b31ab824cad5db8a81991d7a, type: 3}
+  - {fileID: 21300000, guid: 97cb2e390e1ad06459c589ababe8b212, type: 3}
+  - {fileID: 21300000, guid: 452f2e2ad1a697b47813bf19287ee175, type: 3}
+  - {fileID: 21300000, guid: fa16aaeaebfdda245b4c6867252873a9, type: 3}
+  - {fileID: 21300000, guid: 8834d0bb83aa32b40aa5ed5a5af1c094, type: 3}
+  - {fileID: 21300000, guid: fe397ddb8343906478a74cb2958298ae, type: 3}
+  - {fileID: 21300000, guid: 76bbbf1c8ea6ddb4f8facffa0e092b76, type: 3}
+  - {fileID: 21300000, guid: a5f0fc3c1667e874ead5b33053b77339, type: 3}
+  - {fileID: 21300000, guid: 1f66d85c7d1e52a4a8b9e2acfd89023c, type: 3}
+  - {fileID: 21300000, guid: dba2a0fce43b06842bdc9eafaefaa598, type: 3}
+  - {fileID: 21300000, guid: 7ff755fc6403f404296821372e77e4b3, type: 3}
+  - {fileID: 21300000, guid: 7b6bbf4dc105ddf45ab4ee1caa6d9208, type: 3}
+  - {fileID: 21300000, guid: 9974116d0c3df744cbada4f04c0ee03d, type: 3}
+  - {fileID: 21300000, guid: 83295a8d17f397a48b93a7772d67753f, type: 3}
+  - {fileID: 21300000, guid: bc34eb8d5ddb5294e8fbc9bc52d2e4f6, type: 3}
+  - {fileID: 21300000, guid: 7c79854e5ed6b4b48a02671f1caf3159, type: 3}
+  - {fileID: 21300000, guid: df178d4e2bb738c4892db13531ff6d6b, type: 3}
+  - {fileID: 21300000, guid: 96fecdaeb67d062459065f330350b47d, type: 3}
+  - {fileID: 21300000, guid: dce90cfe5c458dd4a950f9d3cc3dbf00, type: 3}
+  - {fileID: 21300000, guid: 9743f17f46e40fe4196c253860a8c27d, type: 3}
+  - {fileID: 21300000, guid: 43e31baf9ff99604ebf9839a1060334f, type: 3}
+  - {fileID: 21300000, guid: 956b5daf15c9c8341bbfc3cb04a43a2e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - gift_base
+  - spin_item_base
+  - Gift_Switch
+  - Gift_iPad
+  - slider_fill
+  - button_yellow
+  - Fragment_DysonHairDryer
+  - Fragment_LV_Bag
+  - Fragment_PhilipsCoffeeMachine
+  - spin_progress_Fill
+  - Fragment_Switch
+  - bg
+  - slider_bg
+  - LuckySpin_base1
+  - Gift_PhilipsCoffeeMachine
+  - Gift_SonyTV
+  - back
+  - Gift_GucciPerfume
+  - Fragment_ChanelLipstick
+  - Fragment_SamsungPhone
+  - Fragment_Macbook
+  - button_press
+  - Fragment_iPad
+  - Gift_SamsungPhone
+  - button_blue
+  - Fragment_SonyTV
+  - Gift_Macbook
+  - Gift_DysonHairDryer
+  - Claimed
+  - help
+  - titleBg
+  - Fragment_GucciPerfume
+  - Gift_LV_Bag
+  - ad
+  - PlayBingoTicket
+  - spin_progress_Bg
+  - button_off
+  - refresh
+  - LuckySpin_base2
+  - Gift_ChanelLipstick
+  - Cash
+  - spin_item_base_select
+  m_RenderDataMap: {}
+  m_Tag: DrawPhone
+  m_IsVariant: 0

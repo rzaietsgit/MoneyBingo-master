@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BackMain
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ddf6499df6660a7448b9d4506665899a, type: 3}
+    totalSpriteSurfaceArea: 1003296
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 75f197b19dfeb2740970a52445d9bf3d, type: 3}
+  - {fileID: 21300000, guid: 54d82a12bfbb52941bba81682da0afb1, type: 3}
+  - {fileID: 21300000, guid: 109507322fe027d4cbfdda1c19b24771, type: 3}
+  - {fileID: 21300000, guid: 6e8deb620f91bd146bb025c4f1b6ffe1, type: 3}
+  - {fileID: 21300000, guid: 52979af27f9c6db46998941a46713d27, type: 3}
+  - {fileID: 21300000, guid: 4ae2618327a82f54f988cff05a4a681a, type: 3}
+  - {fileID: 21300000, guid: 0eca5db3260f7b44588ef8f640965d30, type: 3}
+  - {fileID: 21300000, guid: 3d0548f333bce5b41b9f36774e2653a7, type: 3}
+  - {fileID: 21300000, guid: 1ab97fb853bfb18469fa7fd4af53ed4d, type: 3}
+  - {fileID: 21300000, guid: 7f4cffb85e0023841a75a8fef1b6aad5, type: 3}
+  - {fileID: 21300000, guid: acd90469d99595647b3d878bbe1a468c, type: 3}
+  - {fileID: 21300000, guid: 0fb50c89190adad48b11732260f12e89, type: 3}
+  - {fileID: 21300000, guid: c171700ba07906b46a789309e40762ce, type: 3}
+  - {fileID: 21300000, guid: 4a349bdc2a0f9cd498b19b987de28d11, type: 3}
+  - {fileID: 21300000, guid: b422cf1e0bd7a8e48a146382ced3297c, type: 3}
+  - {fileID: 21300000, guid: e846d03f36a698f4dbed9bee7e170799, type: 3}
+  - {fileID: 21300000, guid: 0a7a7b7f7fa54d64789c3e53b3db4247, type: 3}
+  - {fileID: 21300000, guid: 84639dcfb6048f5478af07072730ba82, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Key
+  - SamsungPhone
+  - PlayBingoTicket
+  - line
+  - AmazonCard
+  - Gold
+  - Macbook
+  - base_2
+  - button_g_press
+  - base_1
+  - titleBg
+  - close
+  - button_b
+  - ad
+  - button_off
+  - wheel
+  - button_g
+  - Cash
+  m_RenderDataMap: {}
+  m_Tag: BackMain
+  m_IsVariant: 0

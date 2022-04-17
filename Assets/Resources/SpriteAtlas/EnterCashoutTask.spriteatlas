@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EnterCashoutTask
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7e5f0b1d17145844a9db17e2848d8658, type: 3}
+    totalSpriteSurfaceArea: 759653
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: cbb19f30f81f95d459dae2eca8e1e297, type: 3}
+  - {fileID: 21300000, guid: ec4ada4188ffd9343bab32fd3c64e478, type: 3}
+  - {fileID: 21300000, guid: 308f7a44924451a4c8c6cab8c0b8bc98, type: 3}
+  - {fileID: 21300000, guid: e3e94aa603436a8469b3c41f0e517251, type: 3}
+  - {fileID: 21300000, guid: dc8c58e8444403c4293b9261655c0973, type: 3}
+  - {fileID: 21300000, guid: e7878179fb83c384186d53b2f9fdefb1, type: 3}
+  - {fileID: 21300000, guid: 43a5551bd4136994a92b8537572d6c0a, type: 3}
+  - {fileID: 21300000, guid: 2d84973bc6a4ffb439f199941d739baa, type: 3}
+  - {fileID: 21300000, guid: ef74b72e630b6324ab3dd0d299c19f93, type: 3}
+  - {fileID: 21300000, guid: f67f572f94250554bab02c7212fc3285, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - task_slider_bg
+  - base_2
+  - task_base
+  - title_bg
+  - cash_bg
+  - top
+  - close
+  - task_slider_fill
+  - button
+  - base_1
+  m_RenderDataMap: {}
+  m_Tag: EnterCashoutTask
+  m_IsVariant: 0

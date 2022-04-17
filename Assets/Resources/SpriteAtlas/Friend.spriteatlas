@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Friend
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c6b43086edd6c2442acc995fd02a39d7, type: 3}
+    totalSpriteSurfaceArea: 3861837
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9e8f24107066bfe45a5dbbec351ebeb2, type: 3}
+  - {fileID: 21300000, guid: 4ca1f920c0a23844088b34c572ca3e71, type: 3}
+  - {fileID: 21300000, guid: 8a0f075084bef0c4f8a204813fa5036e, type: 3}
+  - {fileID: 21300000, guid: 81224d90d8e73994f9c676c0e1c0a071, type: 3}
+  - {fileID: 21300000, guid: 8c38dcb0cfcea04499c3a3e56a1102f0, type: 3}
+  - {fileID: 21300000, guid: fed3b3d06b849b64f8da578446a36c57, type: 3}
+  - {fileID: 21300000, guid: 919d57f182a49754cb360bc987a4f08a, type: 3}
+  - {fileID: 21300000, guid: 5f515b53ef5fcae4b8158bdb18b90085, type: 3}
+  - {fileID: 21300000, guid: ceaba6a3c37f41d4d9eb2fc64f2515c2, type: 3}
+  - {fileID: 21300000, guid: 98e54dd3dc8735249a32bfc152653e48, type: 3}
+  - {fileID: 21300000, guid: 2f327b7405d9ce1409b61876ac846ed1, type: 3}
+  - {fileID: 21300000, guid: 90a4a4155cbf5df43a5596babc425012, type: 3}
+  - {fileID: 21300000, guid: ce89e085c9df9f44ebc4d9d941ba0774, type: 3}
+  - {fileID: 21300000, guid: b3ffaeb53449c3547b4190850981f540, type: 3}
+  - {fileID: 21300000, guid: 73b0e70623810dc4283200a8d94f8e5b, type: 3}
+  - {fileID: 21300000, guid: 34ff1906e88cb50499bb2b80fcee9528, type: 3}
+  - {fileID: 21300000, guid: c228ff562827eb740bb6d7ab2306c24c, type: 3}
+  - {fileID: 21300000, guid: b6c92a66e2d7c8b4d8e95259d17df1b0, type: 3}
+  - {fileID: 21300000, guid: f06c6596fe4922b4bbcb1ef67ca77fe1, type: 3}
+  - {fileID: 21300000, guid: 417f65a67f75ebe4a85dca85002c38d2, type: 3}
+  - {fileID: 21300000, guid: de3dcdd6cdc524943a2aeb6253436eed, type: 3}
+  - {fileID: 21300000, guid: 4b7ae797629cd41488e263f57c117539, type: 3}
+  - {fileID: 21300000, guid: 5db1f9b7f45f3bd43b7e7af46b38594c, type: 3}
+  - {fileID: 21300000, guid: b85f1e8822af2a1458ef53c377bfeebe, type: 3}
+  - {fileID: 21300000, guid: ab87bbc8f699969499ada49fea9d657f, type: 3}
+  - {fileID: 21300000, guid: eae15639e4564e94aae4321729389b9b, type: 3}
+  - {fileID: 21300000, guid: 3ed64279b4b965249822aca81d8382e9, type: 3}
+  - {fileID: 21300000, guid: 00dcf3e93541054428f3ff8d52a56c46, type: 3}
+  - {fileID: 21300000, guid: 8d6ae06a39bffb541a4882bd1a748cbe, type: 3}
+  - {fileID: 21300000, guid: 16584d6a2e322694dba30d37fc08edf3, type: 3}
+  - {fileID: 21300000, guid: 46d5a95b2b0baea468d4168cbd7fcb0a, type: 3}
+  - {fileID: 21300000, guid: 5783e51ce4d283048a61b9ab018f4dd0, type: 3}
+  - {fileID: 21300000, guid: 19e9756c383740742b5aeba35307c5a7, type: 3}
+  - {fileID: 21300000, guid: a3cfbbbc6e0851247b49636a31e7484d, type: 3}
+  - {fileID: 21300000, guid: 9c0f2becb8f153847b3831258f06dd0f, type: 3}
+  - {fileID: 21300000, guid: 76b1bafcf602d9e48804f20683b34714, type: 3}
+  - {fileID: 21300000, guid: 055448dd5426aa7408e25d8a4ebeb583, type: 3}
+  - {fileID: 21300000, guid: 57df4ced5c5c9234288e8c1f7a3387cf, type: 3}
+  - {fileID: 21300000, guid: 81905f2ebd6a22d41aa5fa3c4b77e56b, type: 3}
+  - {fileID: 21300000, guid: fe18b46e85729bb47873631fdedbb1b4, type: 3}
+  - {fileID: 21300000, guid: 36120abe6a7a0be43a93be5236ff1eb5, type: 3}
+  - {fileID: 21300000, guid: f84affce4bc54bb46bd1b111f766f3ee, type: 3}
+  - {fileID: 21300000, guid: 72058d0f6571242489c96677b3c01120, type: 3}
+  - {fileID: 21300000, guid: 122d421fdc0858a4c995152af4928eb9, type: 3}
+  - {fileID: 21300000, guid: 6c59554fea9c2614493de54462ed48af, type: 3}
+  - {fileID: 21300000, guid: 988b9f4fb68e5e443b8a23d565750de3, type: 3}
+  - {fileID: 21300000, guid: 0493f67f94365f94d8675408ce2aa3c1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - loading
+  - invite_base
+  - cashout bg
+  - head_1010
+  - head_1018
+  - main_base
+  - underline
+  - head_1016
+  - main_lastday_recordbg
+  - head_1022
+  - head_1006
+  - head_1023
+  - head_1008
+  - back
+  - head_1021
+  - head_1007
+  - confirmBg
+  - head_1012
+  - ok
+  - head_1004
+  - nonet
+  - button
+  - head_1020
+  - head_1003
+  - main_top_base
+  - head_1002
+  - head_1013
+  - incomBase
+  - head_1011
+  - ad
+  - head_1001
+  - head_1009
+  - direct_friend
+  - orange_star
+  - head_1024
+  - close
+  - head_1015
+  - head_1014
+  - head_1019
+  - head_1005
+  - indirect_friend
+  - head_1017
+  - yellow_star
+  - next
+  - inviteButtonBG
+  - banner
+  - base
+  m_RenderDataMap: {}
+  m_Tag: Friend
+  m_IsVariant: 0

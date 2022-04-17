@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Game
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: da1104c449f005c48b1891840c92701e, type: 3}
+    totalSpriteSurfaceArea: 3506833
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d17b8a206e7be2f4da7d774f69f0e429, type: 3}
+  - {fileID: 21300000, guid: 3d2371609a4074649831cdd9f9aad0c9, type: 3}
+  - {fileID: 21300000, guid: 97684660c89199444ab1b4fe6264cdb5, type: 3}
+  - {fileID: 21300000, guid: 4025e2c0c945d3947b6208ee5f852f4a, type: 3}
+  - {fileID: 21300000, guid: 30e12bd039c1815409254e70013c5cb2, type: 3}
+  - {fileID: 21300000, guid: 70159d01d11e3c545bc9f1a659df6e26, type: 3}
+  - {fileID: 21300000, guid: 99a561916ad5880468aaaca7f6c5d650, type: 3}
+  - {fileID: 21300000, guid: 5264b9c1c9fbefb4e971d2b3d0bfa5cc, type: 3}
+  - {fileID: 21300000, guid: 56c320023d7aecc4aba1df66b7179aaa, type: 3}
+  - {fileID: 21300000, guid: cc33c88289fffd24698ff0a4ebcf8070, type: 3}
+  - {fileID: 21300000, guid: ba3c5d63b6cdf5243986d884b046822a, type: 3}
+  - {fileID: 21300000, guid: 656dddc3f3cdb7641aa32b11b7523af4, type: 3}
+  - {fileID: 21300000, guid: 404ffcf3347ec9c428d9d634e60301f0, type: 3}
+  - {fileID: 21300000, guid: ae2b7644ed9319141a87f3cd2c6cb9dd, type: 3}
+  - {fileID: 21300000, guid: 11c9e78476e3156479980a95dbbd6797, type: 3}
+  - {fileID: 21300000, guid: f337d1f486f9c3c4998b91b56921a2c9, type: 3}
+  - {fileID: 21300000, guid: a9082a55e5e32bd4b917dcf965d750ba, type: 3}
+  - {fileID: 21300000, guid: dc1b21866b965a14ca9ee071d72cf79f, type: 3}
+  - {fileID: 21300000, guid: 244ed2b6a9ae76049b12cc55da831a51, type: 3}
+  - {fileID: 21300000, guid: 3dd828b6b6408814883598f1ddfce0d8, type: 3}
+  - {fileID: 21300000, guid: 7f8ae7e640e72ee4fbbf5a526f5ad16a, type: 3}
+  - {fileID: 21300000, guid: de200727e00cfdc48a1c80751b2fea6c, type: 3}
+  - {fileID: 21300000, guid: 0601c967cbfafeb4cb56a52beeae00eb, type: 3}
+  - {fileID: 21300000, guid: 99f16a67a23471840b630623cd720218, type: 3}
+  - {fileID: 21300000, guid: fb07d7770d393534197beb755ef4c4b8, type: 3}
+  - {fileID: 21300000, guid: faeb808832a2340459574cfe36300e24, type: 3}
+  - {fileID: 21300000, guid: 66464db8745a76b47b4add1c380a5200, type: 3}
+  - {fileID: 21300000, guid: c5d53ec855dc0fe44a994b53ca3204fa, type: 3}
+  - {fileID: 21300000, guid: e1a424397367af4468ddab613cf842fa, type: 3}
+  - {fileID: 21300000, guid: edd469696b39ac144afc26e3eaa53ead, type: 3}
+  - {fileID: 21300000, guid: 72c0d2d99c966724b9310382fd1fb3a9, type: 3}
+  - {fileID: 21300000, guid: e480025abb8f9c845b26c6dad92bdf8a, type: 3}
+  - {fileID: 21300000, guid: 1d97b0da9e045ca479ebd6e348043045, type: 3}
+  - {fileID: 21300000, guid: 05a947ea63b3ee44f9a4b73981a4b1ce, type: 3}
+  - {fileID: 21300000, guid: a30ec23bfa319284b994cc2475349cb7, type: 3}
+  - {fileID: 21300000, guid: 3aa43c3b74bf5454d822a287f7e05db4, type: 3}
+  - {fileID: 21300000, guid: e415f5bb1e145ff4bac9192c6c25a12b, type: 3}
+  - {fileID: 21300000, guid: 4e0cd61d0e0f71a4b8fbc380393d07d4, type: 3}
+  - {fileID: 21300000, guid: f3094a3d61a0ac24abf3c5e35ba82561, type: 3}
+  - {fileID: 21300000, guid: 0124397d1d39c0f41aa4c43db177a2c4, type: 3}
+  - {fileID: 21300000, guid: c788aedd09dabd041b39747cba76273c, type: 3}
+  - {fileID: 21300000, guid: 37fedf8ee4c54e2498cc3e647976896c, type: 3}
+  - {fileID: 21300000, guid: 634840de6d772fd4fbec2dd50446f2e8, type: 3}
+  - {fileID: 21300000, guid: c6eddd5f5b1c32a4e938f7e55d3d5650, type: 3}
+  - {fileID: 21300000, guid: 20b95f8f839e3b541bbdb7d85eb7bcac, type: 3}
+  - {fileID: 21300000, guid: 5c1a2eef0294df44ab1a2e57532ffeea, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - KeyLock
+  - Star
+  - Ball_Red
+  - Extra_effect_3
+  - key_on
+  - Gold
+  - Card_bingo_effect_3
+  - Extra_effect_5
+  - READY
+  - top_ball_base
+  - Gift
+  - Card_bingo_effect_2
+  - ManyCash
+  - Card_bingo_effect_6
+  - ExtraGold
+  - slider_bg
+  - bingo_star
+  - key_off
+  - GoldLock
+  - Extra_effect_4
+  - bingo
+  - Ball_Blue
+  - GO
+  - Card_bingo_effect_4
+  - Card_bingo_effect_5
+  - card_panel
+  - help
+  - Card_bingo_effect_1
+  - Ball_Pink
+  - extra_reward_4
+  - Key
+  - Cash
+  - GAMEOVER
+  - card_check
+  - Ball_Green
+  - TribleReward
+  - Ball_Yellow
+  - ManyGold
+  - StarLock
+  - Key_Base
+  - Extra_effect_2
+  - bingo_light
+  - slider_fill
+  - CashLock
+  - Extra_effect_1
+  - Empty
+  m_RenderDataMap: {}
+  m_Tag: Game
+  m_IsVariant: 0
